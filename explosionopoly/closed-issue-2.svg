@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="octicon octicon-issue-closed closed"
+   viewBox="0 0 16 16"
+   version="1.1"
+   width="16"
+   height="16"
+   aria-hidden="true"
+   id="svg5790"
+   sodipodi:docname="closed-issue-2.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5794">
+    <linearGradient
+       id="linearGradient9079"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop9077" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path5879,0,1"
+       id="path-effect6772" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview5792"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="44.75"
+     inkscape:cx="7.8547486"
+     inkscape:cy="8"
+     inkscape:window-width="1296"
+     inkscape:window-height="938"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5790" />
+  <path
+     id="path7001"
+     style="fill:#8250df;fill-opacity:0.33590734;fill-rule:nonzero;stroke:#000000;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 8 0.69335938 A 7.821229 7.3072624 0 0 0 0.1796875 8 A 7.821229 7.3072624 0 0 0 8 15.306641 A 7.821229 7.3072624 0 0 0 15.820312 8 A 7.821229 7.3072624 0 0 0 8 0.69335938 z M 12.136719 4.171875 A 1.1571574 1.1571574 0 0 1 13.060547 6.1152344 L 7.6601562 11.515625 A 1.1571574 1.1571574 0 0 1 6.0253906 11.515625 L 2.9394531 8.4296875 A 1.1571574 1.1571574 0 0 1 4.5742188 6.7929688 L 6.84375 9.0625 L 11.425781 4.4804688 A 1.1571574 1.1571574 0 0 1 12.136719 4.171875 z " />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1" />
+</svg>

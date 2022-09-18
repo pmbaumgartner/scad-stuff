@@ -1,0 +1,14 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "cable_gap": "5",
+            "clamp_angle": "-3",
+            "clamp_offset": "0",
+            "clamp_width": "40",
+            "diameter_holder": "40",
+            "h": "26"
+        }
+    },
+    "parameterSets": "",
+    "fileFormatVersion": "1"
+}
